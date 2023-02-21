@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/sdming3/prak01n02/bin/Debug/net7.0/prak01n02
+/Users/macbook/Desktop/sdming3/prak01n02/bin/Debug/net7.0/prak01n02.deps.json
+/Users/macbook/Desktop/sdming3/prak01n02/bin/Debug/net7.0/prak01n02.runtimeconfig.json
+/Users/macbook/Desktop/sdming3/prak01n02/bin/Debug/net7.0/prak01n02.dll
+/Users/macbook/Desktop/sdming3/prak01n02/bin/Debug/net7.0/prak01n02.pdb
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.AssemblyInfo.cs
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.dll
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/refint/prak01n02.dll
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.pdb
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/prak01n02.genruntimeconfig.cache
+/Users/macbook/Desktop/sdming3/prak01n02/obj/Debug/net7.0/ref/prak01n02.dll
